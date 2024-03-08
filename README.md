@@ -1,16 +1,36 @@
-# pokedex
+**Flutter Pokedex**
 
-A new Flutter project.
+This Flutter Pokedex project is a mobile application that allows users to browse and view detailed information about various Pokemon characters. The app provides details such as the Pokemon's name, type, height, weight, spawn time, weaknesses, and an image.
 
-## Getting Started
+**Features**
 
-This project is a starting point for a Flutter application.
+- View Pokemon details
+- Display Pokemon name, type, height, weight, spawn time, weaknesses
+- Show an image of the Pokemon
+- User-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+**Technologies Used**
+  
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Installation**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository
+ ```bash
+  git clone https://github.com/your-username/Flutter_pokedex.git
+```
+
+**Navigate into the project directory**
+``` bash
+  cd Flutter_pokedex
+```
+
+**Install dependencies**
+``` bash
+flutter pub get
+```
+**Run the app**
+``` bash
+flutter run
+```
