@@ -1,4 +1,4 @@
-**Flutter Pokedex**
+# Flutter Pokedex
 
 This Flutter Pokedex project is a mobile application that allows users to browse and view detailed information about various Pokemon characters. The app provides details such as the Pokemon's name, type, height, weight, spawn time, weaknesses, and an image.
 
